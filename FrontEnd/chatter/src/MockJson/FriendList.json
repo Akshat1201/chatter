@@ -1,0 +1,23 @@
+{
+    "outcome": {
+      "http_code": 200,
+      "message": "success"
+    },
+    "friendList": [
+      {
+        "name": "friend name",
+        "email": "email@someting.com",
+        "profilePic": "some_url"
+      },
+      {
+        "name": "friend name 2",
+        "email": "email2@someting.com",
+        "profilePic": "some_url"
+      },
+      {
+        "name": "friend name 3",
+        "email": "email@someting.com",
+        "profilePic": "some_url"
+      }
+    ]
+  }
